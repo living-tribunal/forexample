@@ -49,3 +49,6 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
+
+# VS Code workspace
+*.code-workspace
